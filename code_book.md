@@ -1,4 +1,4 @@
-#Data source
+# Data source
 
 This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
@@ -57,7 +57,7 @@ test/y_test.txt - activity (from 1 to 6) for each measurement from the test set.
 
 
 
-#The following data transformations were conducted to form a tidy dataset:
+# The following data transformations were conducted to form a tidy dataset:
 
 - Join the test and train sets.
 - Keep only the features that refer to the mean and standard deviation, those that contain "mean()" and "std()" (discarding the meanFreq() and angle variables)
