@@ -1,4 +1,4 @@
-#Getting and Cleaning Data: Course Project
+# Getting and Cleaning Data: Course Project
 
 The script run_analysis.R follow the next step:
 
@@ -18,6 +18,6 @@ The script run_analysis.R follow the next step:
 
 
 
-##About the Code Book
+## About the Code Book
 
 The CodeBook.md file explains the transformations performed and the resulting data and variables.
