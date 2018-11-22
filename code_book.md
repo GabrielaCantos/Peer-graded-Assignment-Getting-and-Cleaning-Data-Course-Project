@@ -1,6 +1,7 @@
 #Data source
 
-This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
+
 For the smartphone data set, relevant experiments were carried out with a group of 30 volunteers within an age bracket of 19-48 years old. Each individual performed six different activities wearing a smartphone, including walking, walking upstairs, walking downstairs, sitting, standing and laying. The smartphone was embedded accelerometer and gyroscope to capture the movement of the individuals. The experiments were also video-recorded to label the data manually.
 
 ## The Data Package
