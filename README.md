@@ -1,6 +1,6 @@
 # Getting and Cleaning Data: Course Project
 
-The script run_analysis.R follow the next step:
+The script run_analysis.R follows the next steps:
 
 1. Get the data: Download and unzip the data. It checks if the data directory exists, if not it creates it. Then checks if the file is already downloaded, if not it downloads it. At the end we will have a directory called "data/UCI HAR Dataset" where the needed files will be. 
 
