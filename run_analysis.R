@@ -15,8 +15,7 @@ unzip(zipfile="./data/Dataset.zip", exdir= "./data")
 ##Get the list of the files
 
 path_rf <- file.path("./data" , "UCI HAR Dataset")
-files<-list.files(path_rf, recu
-rsive=TRUE)
+files<-list.files(path_rf, recursive=TRUE)
 files
 
 ##Load required packages
